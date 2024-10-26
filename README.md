@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Felipe Toledano Escudero
 
-<!--
-**F3LIP3X/F3LIP3X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador Junior Full Stack | Apasionado por la creación de soluciones web
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Ubicación**: Granada, España  
+📧 **Contacto**: [felitol2008@gmail.com](mailto:felitol2008@gmail.com)  
+🔗 **LinkedIn**: [Felipe José Toledano Escudero](https://www.linkedin.com/in/felipe-jos%C3%A9-toledano-escudero-4008bb194/)  
+💼 **GitHub**: [@F3LIP3X](https://github.com/F3LIP3X)
+
+---
+
+### 🌱 Actualmente Aprendiendo
+- **Frameworks**: React, Node.js
+- **Backend**: Docker, MySQL, MongoDB
+- **Frontend**: Tailwind CSS, Componentes interactivos
+- **Versionado de Código**: Git y GitHub
+
+### 🛠️ Habilidades
+**Lenguajes y Tecnologías**  
+- Java, Python, TypeScript, HTML, CSS  
+- React, Node.js, Docker  
+- MySQL, MongoDB  
+---
