@@ -1,6 +1,6 @@
 # 👋 Hola, soy Felipe Toledano Escudero
 
-### 💻 Desarrollador Junior Full Stack | Apasionado por la creación de soluciones web
+### 💻 Desarrollador Junior Full Stack 
 
 ---
 
