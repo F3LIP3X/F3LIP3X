@@ -12,7 +12,7 @@
 ---
 
 ### 🌱 Actualmente Aprendiendo
-- **Frameworks**: React, Node.js
+- **Frameworks**: React, Node.js, Laravel
 - **Backend**: Docker, MySQL, MongoDB
 - **Frontend**: Tailwind CSS, Componentes interactivos
 - **Versionado de Código**: Git y GitHub
