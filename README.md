@@ -59,8 +59,6 @@ Formación en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones 
 | Proyecto | Descripción |
 |---|---|
 | [Portfolio](https://github.com/F3LIP3X/Portfolio) | Portfolio personal — [f3lip3x.github.io/Portfolio](https://f3lip3x.github.io/Portfolio/) |
-| [App-TEA](https://github.com/F3LIP3X/App-TEA) | Aplicación en TypeScript orientada a apoyo para personas con TEA |
-| [coseba-app](https://github.com/F3LIP3X/coseba-app) | Aplicación web en JavaScript |
 | [pokemon-bw-rules-data](https://github.com/F3LIP3X/pokemon-bw-rules-data) | Gestión de datos/reglas para partidas Nuzlocke de Pokémon |
 | [STEMFounding](https://github.com/F3LIP3X/STEMFounding) | Gestor de proyectos hecho con Laravel (DAM, STEM Granada) |
 
