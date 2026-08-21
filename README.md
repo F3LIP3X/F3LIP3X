@@ -56,10 +56,11 @@ Formación en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones 
 
 ## Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| [Portfolio](https://github.com/F3LIP3X/Portfolio) | Portfolio personal — [f3lip3x.github.io/Portfolio](https://f3lip3x.github.io/Portfolio/) |
-| [STEMFounding](https://github.com/F3LIP3X/STEMFounding) | Gestor de proyectos hecho con Laravel (DAM, STEM Granada) |
+| Proyecto | Descripción | Ver |
+|---|---|---|
+| [Arena Camping](https://github.com/F3LIP3X/ArenaCamping-web) | Web de un área de autocaravanas en la sierra de Granada. React + Vite, CSS propio, desplegada con GitHub Actions | [Ver web](https://f3lip3x.github.io/ArenaCamping-web/) |
+| [Portfolio](https://github.com/F3LIP3X/Portfolio) | Portfolio personal | [Ver web](https://f3lip3x.github.io/Portfolio/) |
+| [STEMFounding](https://github.com/F3LIP3X/STEMFounding) | Gestor de proyectos hecho con Laravel (DAM, STEM Granada) | — |
 
 ## Educación
 
