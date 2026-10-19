@@ -3,7 +3,7 @@
 **Full Stack Developer** — Granada, España
 
 [![Email](https://img.shields.io/badge/Email-felitol2008%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felitol2008@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Toledano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-jos%C3%A9-toledano-escudero-4008bb194/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Toledano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-toledano-escudero)
 [![Portfolio](https://img.shields.io/badge/Portfolio-f3lip3x.github.io-000000?style=flat-square&logo=githubpages&logoColor=white)](https://f3lip3x.github.io/Portfolio/)
 
 ---
@@ -72,4 +72,4 @@ Formación en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones 
 
 ## Contacto
 
-📧 [felitol2008@gmail.com](mailto:felitol2008@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-jos%C3%A9-toledano-escudero-4008bb194/) · 🌐 [Portfolio](https://f3lip3x.github.io/Portfolio/)
+📧 [felitol2008@gmail.com](mailto:felitol2008@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-toledano-escudero) · 🌐 [Portfolio](https://f3lip3x.github.io/Portfolio/)
