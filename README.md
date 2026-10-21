@@ -61,7 +61,7 @@ Formación en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones 
 | [Portfolio](https://github.com/F3LIP3X/Portfolio) | Portfolio personal | [Ver web](https://f3lip3x.github.io/Portfolio/) |
 | [Rick and Morty](https://github.com/F3LIP3X/Prueba-Tecnica-Optima-Cultura-Rick-Morty-Felipe-Jose) | Prueba técnica para Óptima Cultura: app de personajes de Rick and Morty con login y favoritos. Nuxt + Pinia + Tailwind, desplegada con GitHub Actions | [Ver web](https://f3lip3x.github.io/Prueba-Tecnica-Optima-Cultura-Rick-Morty-Felipe-Jose/) |
 | [Arena Camping](https://github.com/F3LIP3X/ArenaCamping-web) | Web de un área de autocaravanas en la sierra de Granada. React + Vite, CSS propio, desplegada con GitHub Actions | [Ver web](https://f3lip3x.github.io/ArenaCamping-web/) |
-| Billar 3D | Billar americano 3D en el navegador con física propia, reglas oficiales y multijugador online. Three.js, TypeScript y Firebase | [Jugar](https://billar3d.web.app) |
+| [Billar 3D](https://github.com/F3LIP3X/billar-game-3D) | Billar americano 3D en el navegador con física propia, reglas oficiales y multijugador online. Three.js, TypeScript y Firebase | [Jugar](https://billar3d.web.app) |
 | [STEMFounding](https://github.com/F3LIP3X/STEMFounding) | Gestor de proyectos hecho con Laravel (DAM, STEM Granada) | — |
 
 ## Educación
