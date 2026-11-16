@@ -14,35 +14,16 @@
 
 ## Proyectos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/F3LIP3X/billar-game-3D">Billar 3D</a></h3>
-      <p>Billar americano 3D en el navegador con física propia, reglas oficiales y multijugador online.</p>
-      <p><code>Three.js</code> <code>TypeScript</code> <code>Firebase</code></p>
-      <p><a href="https://billar3d.web.app"><b>Jugar →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/F3LIP3X/ArenaCamping-web">Arena Camping</a></h3>
-      <p>Web de un área de autocaravanas en la sierra de Granada, con CSS propio y despliegue con GitHub Actions.</p>
-      <p><code>React</code> <code>Vite</code> <code>GitHub Actions</code></p>
-      <p><a href="https://f3lip3x.github.io/ArenaCamping-web/"><b>Ver web →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/F3LIP3X/Prueba-Tecnica-Optima-Cultura-Rick-Morty-Felipe-Jose">Rick and Morty</a></h3>
-      <p>App de personajes de Rick and Morty con login y favoritos, hecha como prueba técnica.</p>
-      <p><code>Nuxt</code> <code>Pinia</code> <code>Tailwind</code></p>
-      <p><a href="https://f3lip3x.github.io/Prueba-Tecnica-Optima-Cultura-Rick-Morty-Felipe-Jose/"><b>Ver web →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/F3LIP3X/Portfolio">Portfolio</a></h3>
-      <p>Mi web personal, con el resto de proyectos y mi trayectoria.</p>
-      <p><a href="https://f3lip3x.github.io/Portfolio/"><b>Ver web →</b></a></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://billar3d.web.app"><img src="./cards/billar.svg" alt="Billar 3D: billar americano en el navegador con física propia, reglas oficiales y multijugador online. Three.js, TypeScript, Firebase" width="49%"></a>
+<a href="https://f3lip3x.github.io/ArenaCamping-web/"><img src="./cards/arena-camping.svg" alt="Arena Camping: web de un área de autocaravanas en la sierra de Granada. React, Vite, GitHub Actions" width="49%"></a>
+<a href="https://f3lip3x.github.io/Prueba-Tecnica-Optima-Cultura-Rick-Morty-Felipe-Jose/"><img src="./cards/rick-and-morty.svg" alt="Rick and Morty: app de personajes con login y favoritos, hecha como prueba técnica. Nuxt, Pinia, Tailwind" width="49%"></a>
+<a href="https://f3lip3x.github.io/Portfolio/"><img src="./cards/portfolio.svg" alt="Portfolio: mi web personal, con el resto de proyectos y mi trayectoria" width="49%"></a>
+
+<sub>Código: [Billar 3D](https://github.com/F3LIP3X/billar-game-3D) · [Arena Camping](https://github.com/F3LIP3X/ArenaCamping-web) · [Rick and Morty](https://github.com/F3LIP3X/Prueba-Tecnica-Optima-Cultura-Rick-Morty-Felipe-Jose) · [Portfolio](https://github.com/F3LIP3X/Portfolio)</sub>
+
+</div>
 
 ## Stack
 

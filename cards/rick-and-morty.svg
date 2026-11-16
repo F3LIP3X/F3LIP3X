@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 250" width="580" height="250" role="img" aria-label="Rick and Morty">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#a3e635" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#a3e635" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+    <clipPath id="round"><rect width="580" height="250" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="580" height="250" fill="url(#bg)"/>
+    <rect width="580" height="250" fill="url(#grid)"/>
+    <rect width="580" height="250" fill="url(#glow)"/>
+    <ellipse cx="480" cy="118" rx="52" ry="66" fill="#a3e635" fill-opacity="0.14" stroke="#a3e635" stroke-opacity="0.55" stroke-width="3"/><ellipse cx="480" cy="118" rx="34" ry="45" fill="none" stroke="#a3e635" stroke-opacity="0.4" stroke-width="3" stroke-dasharray="10 8"/><ellipse cx="480" cy="118" rx="16" ry="22" fill="#a3e635" fill-opacity="0.3"/>
+    <text x="36" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#a3e635">PRUEBA TÉCNICA</text>
+    <text x="35" y="98" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f8fafc">Rick and Morty</text>
+    <text x="36" y="138" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#94a3b8">App de personajes con login y favoritos,</text>
+    <text x="36" y="162" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#94a3b8">hecha como prueba técnica.</text>
+    <rect x="36" y="196" width="58" height="28" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/><text x="65.0" y="215" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#cbd5e1">Nuxt</text>
+    <rect x="104" y="196" width="66" height="28" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/><text x="137.0" y="215" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#cbd5e1">Pinia</text>
+    <rect x="180" y="196" width="90" height="28" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/><text x="225.0" y="215" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#cbd5e1">Tailwind</text>
+    <rect x="0" y="246" width="580" height="4" fill="#a3e635" fill-opacity="0.7"/>
+  </g>
+</svg>
