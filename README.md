@@ -4,9 +4,9 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=githubpages&logoColor=22d3ee)](https://f3lip3x.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/felipe-toledano-escudero)
-[![Email](https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:felitol2008@gmail.com)
+<a href="https://f3lip3x.github.io/Portfolio/"><img src="./buttons/portfolio.svg" alt="Portfolio" height="40"></a>
+<a href="https://www.linkedin.com/in/felipe-toledano-escudero"><img src="./buttons/linkedin.svg" alt="LinkedIn" height="40"></a>
+<a href="mailto:felitol2008@gmail.com"><img src="./buttons/email.svg" alt="Email" height="40"></a>
 
 </div>
 

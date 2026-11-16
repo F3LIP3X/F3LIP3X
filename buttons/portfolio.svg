@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155 44" width="155" height="44" role="img" aria-label="Portfolio">
+  <rect x="1" y="1" width="153" height="42" rx="11" fill="#111827" stroke="#22d3ee" stroke-opacity="0.45" stroke-width="1.5"/>
+  <g fill="none" stroke="#22d3ee" stroke-width="1.8"><circle cx="28" cy="22" r="9"/><ellipse cx="28" cy="22" rx="4" ry="9"/><path d="M19 22h18"/></g>
+  <text x="50" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="2" fill="#f8fafc">PORTFOLIO</text>
+</svg>
